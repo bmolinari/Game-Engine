@@ -27,3 +27,6 @@
 *.exe
 *.out
 *.app
+
+# Ignore Trash Files
+*/Debug/Temp
